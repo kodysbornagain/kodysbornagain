@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img width="400" height="380" src="https://i.imgur.com/UcwhP9V_d.png?maxwidth=520&shape=thumb&fidelity=high">
+  <img width="250" height="250" src="https://i.imgur.com/UcwhP9V_d.png?maxwidth=520&shape=thumb&fidelity=high">
 </p>
 <p align="center">
 Peter / Kody ⚣︎ he/him
